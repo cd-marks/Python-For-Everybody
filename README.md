@@ -6,4 +6,4 @@ In this repository, you'll find projects and learning exercises that I've comple
 Thanks for taking the time to check this out, and I'm excited to see where this goes from here!
 
 Regards,
-KrisMarqz
+Kris
