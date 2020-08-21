@@ -4,6 +4,6 @@
 
 initial_string = 'X-DSPAM-Confidence: 0.8475 '
 space_index = initial_string.find(' ')
-num_extracted = initial_string[19:27]
+num_extracted = initial_string[19:len(initial_string)]
 final_string = float(num_extracted.strip())
 print(final_string)
