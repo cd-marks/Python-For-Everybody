@@ -1,4 +1,4 @@
-# krismarqz.github.io
+# cdmarks.github.io
 Hello!
 
 In this repository, you'll find projects and learning exercises that I've completed in Python. I'm getting to know the language and I'm having a blast with it so far.
