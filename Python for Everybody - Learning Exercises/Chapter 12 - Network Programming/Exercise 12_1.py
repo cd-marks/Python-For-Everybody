@@ -6,7 +6,7 @@ import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-url_input = input('Enter a URL address (http://.../): ')
+url_input = input('Enter a URL address (http://.../) containing a file you want to read: ')
 input_split = url_input.split('/')
 host_domain = input_split[2]
 
