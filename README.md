@@ -1,6 +1,5 @@
-# cdmarks.github.io
-Welcome!
+# Welcome to cdmarks' Learning repository!
 
-In this Learning repository, you'll find projects and learning exercises that I've completed thus far. 
+Here you'll find projects and learning exercises that I've completed thus far. 
 
 Thanks for checking this out!
