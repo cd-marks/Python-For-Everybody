@@ -1,4 +1,6 @@
 # cdmarks.github.io
-Hello!
+Welcome!
 
-In this repository, you'll find projects and learning exercises that I've completed in Python thus far. Thanks for taking the time to check this out!
+In this Learning repository, you'll find projects and learning exercises that I've completed thus far. 
+
+Thanks for checking this out!
